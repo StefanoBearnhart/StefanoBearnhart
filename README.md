@@ -1,5 +1,5 @@
 <html>
-<title>I'ts me StefanoBearnhart</title>
+<h1>I'ts me StefanoBearnhart</h1>
 
 <ul>
 <li>👋 Hi, I’m @StefanoBearnhart, I live in Italy (WOW!) and I turned 30 few months ago</li> 
